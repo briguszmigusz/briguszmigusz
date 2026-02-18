@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey there, I'm Brigi 👋
 
-<!--
-**briguszmigusz/briguszmigusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Trainee | Aspiring Data Engineer  
+🐍 Python | 🗄 SQL | ☁️ Azure | 📊 Power BI  | 🧱 Databricks
+🎮 Passionate about Gaming, Data & Digital Experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a career-transitioning data enthusiast currently specializing in Data Engineering through an AI & Data program at BeCode.
+
+Before tech, I worked in tourism and hospitality — an experience that strengthened my communication skills, ownership mindset, and customer-focused thinking. Now, I combine that background with technical skills to build reliable data systems and meaningful insights.
+
+I enjoy transforming raw data into structured pipelines, clean datasets, and actionable analytics.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Data**
+- Python (Pandas, NumPy, OOP)
+- SQL (joins, aggregations, filtering)
+
+**Data Engineering**
+- ETL fundamentals
+- APIs & Web Scraping (BeautifulSoup, Selenium, Requests)
+- Data cleaning & feature engineering
+- Structured & semi-structured data (CSV, JSON, Parquet)
+- Airflow (basics)
+
+**Cloud & Databases**
+- Azure Functions (serverless pipelines)
+- Azure SQL Database
+- Databricks (free edition)
+- SQLite
+- Grafana
+
+**Analytics & ML**
+- Power BI
+- Matplotlib, Seaborn, Plotly
+- Scikit-learn, XGBoost
+- Regression models
+
+---
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/brigi-bodi/)  
+
