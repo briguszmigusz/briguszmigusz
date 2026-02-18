@@ -10,7 +10,7 @@
 
 I’m a career-transitioning data enthusiast currently specializing in Data Engineering through an AI & Data program at BeCode.
 
-Before tech, I worked in tourism and hospitality — an experience that strengthened my communication skills, ownership mindset, and customer-focused thinking. Now, I combine that background with technical skills to build reliable data systems and meaningful insights.
+Before tech, I worked in tourism and hospitality, an experience that strengthened my communication skills, ownership mindset, and customer-focused thinking. Now, I combine that background with technical skills to build reliable data systems and meaningful insights.
 
 I enjoy transforming raw data into structured pipelines, clean datasets, and actionable analytics.
 
