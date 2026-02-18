@@ -1,7 +1,7 @@
 # Hey there, I'm Brigi 👋
 
 🎓 AI & Data Trainee | Aspiring Data Engineer  
-🐍 Python | 🗄 SQL | ☁️ Azure | 📊 Power BI  | 🧱 Databricks
+🐍 Python | 🗄 SQL | ☁️ Azure | 📊 Power BI  | 🧱 Databricks <br>
 🎮 Passionate about Gaming, Data & Digital Experiences  
 
 ---
